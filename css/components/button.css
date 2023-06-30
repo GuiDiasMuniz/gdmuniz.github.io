@@ -1,0 +1,13 @@
+/* BOTÃO DO DOWNLOAD CV */
+#button {
+    display: inline-block;
+    background-color: #E54058;
+    box-shadow: 5px 5px 0px #000000;
+    padding: 18px 20px;
+    margin-right: 0px;
+    transition: background-color 1s;
+}
+
+#button:hover {
+    background-color: #4C5B84;
+}
