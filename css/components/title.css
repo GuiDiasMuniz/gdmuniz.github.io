@@ -1,0 +1,18 @@
+/*TITULO */
+
+.name {
+    font-size: 15px;
+    font-family: "Press Start 2P", sans-serif;
+    color: #E54058;
+    text-shadow: 3px 2px 0px #000000;
+    padding-left: 20px;
+}
+
+/*FUNDO ROXO*/
+
+.background {
+    background-color: #7563BA;
+    height: 470px;
+    padding-top: 195px;
+    padding-left: 80px;
+}

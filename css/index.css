@@ -1,0 +1,48 @@
+/* Layout do menu */
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7C5E99;
+    border-bottom: 10px solid #000000;
+    padding: 10px 20px;
+}
+
+nav {
+    text-align: right;
+}
+
+/* MENU */
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font-family: Fira Code, sans-serif;
+    font-size: 20px;
+    font-weight: 500; 
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+/* PSEUDO ELEMENTO */
+a::before {
+    content: "";
+    background-color: #F25A70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* BOTÃO DO DOWNLOAD CV */
+#button {
+    display: inline-block;
+    background-color: #E54058;
+    box-shadow: 5px 5px 0px #000000;
+    padding: 18px 20px;
+    margin-right: 0px;
+    transition: background-color 1s;
+}
+
+#button:hover {
+    background-color: #4C5B84;
+}

@@ -1,0 +1,7 @@
+/*BOX DO TITLE*/
+
+.box {
+    background-color: #4B575B;
+    width: 825px;
+    box-shadow: 12px 12px 0px #000000;
+}
