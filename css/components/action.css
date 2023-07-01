@@ -1,18 +1,5 @@
-/* Layout do menu */
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #7C5E99;
-    border-bottom: 10px solid #000000;
-    padding: 10px 20px;
-}
-
-nav {
-    text-align: right;
-}
-
 /* MENU */
-a {
+.action {
     display: inline-flex;
     align-items: center;
     color: #FFF;
@@ -24,7 +11,7 @@ a {
 }
 
 /* PSEUDO ELEMENTO */
-a::before {
+.action::before {
     content: "";
     background-color: #F25A70;
     width: 10px;
