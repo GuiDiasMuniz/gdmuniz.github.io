@@ -16,3 +16,11 @@
     padding-top: 195px;
     padding-left: 80px;
 }
+
+.title.-second {
+    font-size: 40px;
+    font-family: "Press Start 2P", sans-serif;
+    color: #ffffff;
+    text-shadow: none;
+    text-align: center;
+}
