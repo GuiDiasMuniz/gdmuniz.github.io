@@ -1,6 +1,6 @@
 /*TITULO */
 
-.title {
+.main-title {
     font-size: 15px;
     font-family: "Press Start 2P", sans-serif;
     color: #E54058;
@@ -17,7 +17,7 @@
     padding-left: 80px;
 }
 
-.title.-second {
+.main-title.-second {
     font-size: 40px;
     font-family: "Press Start 2P", sans-serif;
     color: #ffffff;
